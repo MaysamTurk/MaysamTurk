@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### My Name is Maysam, and Iam an trainee at Coding academy by Orange (Full Stack Web Development)
+### I learned many technologies, such as: HTML%, CSS3, Bootstrap, SASS, JavaScript, React, MERN Stack, PHP, Laravel, Python, and React Native.
 <!--
 **MaysamTurk/MaysamTurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
