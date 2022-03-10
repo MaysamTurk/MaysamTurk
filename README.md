@@ -1,6 +1,6 @@
 ### Hi there 👋
-### My Name is Maysam, and Iam a trainee at Coding Academy by Orange (Full Stack Web Development) ✌
-### I learned many technologies, such as: HTML5, CSS3, Bootstrap, SASS, JavaScript, React, MERN Stack, PHP, Laravel, Python, and React Native.🤗
+### My name is Maysam, and I'm a Clinical Nutritionist, and I graduated from the University of Jordan. I have experience in Diet management and consulting for healthy people and patients with many diseases.
+### Also, I'm a Software Developer and I graduated from Coding Academy by Orange. I have learned many coding technologies, such as HTML5, CSS3, Bootstrap, SASS, JavaScript, React, WordPress, MERN stack, PHP, MySQL, Laravel, Python, React Native. And I took around 100 hours of soft skills, such as communication skills, design thinking, UX & UI design, building a business model, PMP, Agile, digital transformation, and more.
 <!--
 **MaysamTurk/MaysamTurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
