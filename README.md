@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/RN2RoRnu8mELtqNuEo/giphy.gif">
+<div style="display: inline-block">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img src="https://media.giphy.com/media/yDm4Ry6XU77Py/giphy.gif">
+
+</div>
+<!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+ -->
