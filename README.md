@@ -42,7 +42,7 @@
 </p>
 
 <div style="width:100%;">
-<img src="https://media4.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47x3jj3b6w1iq9snswwuohfczt3nic4vaa7534muk8&rid=giphy.gif&ct=g" style="width:30%; margin:0 auto; display:block;max-width: 30%;
+<img src="https://media2.giphy.com/media/kGQFSCLKaS7voGAqvX/giphy.gif?cid=ecf05e47jenf97c2f1qrw2h6sgkn9p14exb7zkih196i16lb&rid=giphy.gif&ct=g" style="width:30%; margin:0 auto; display:block;max-width: 30%;
     margin: 0 auto;
     display: block;">
 <!-- <img src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif">
